@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: aqua;
+}
+
+#titulo{
+    text-align: center;
+    padding: 20px;
+}
+
+.html{
+    background-color: orangered;
+    padding: 20px;
+}
+
+.css{
+    background-color: rgb(55, 55, 209);
+    padding: 20px;
+}
+
+.git{
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+.javascript{
+    background-color: yellow;
+    padding: 20px;
+}
