@@ -6,3 +6,5 @@ document.addEventListener('DOMContentLoaded', () => {
       body.classList.toggle('dark-mode');
     });
 });
+prompt("O modo escuro acabou ficando um pouco inútil.")
+alert("Obrigado pela compreensão.")

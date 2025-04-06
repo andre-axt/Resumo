@@ -37,3 +37,14 @@ header{
     background-color: yellow;
     padding: 20px;
 }
+
+.amarelo{
+    background-color: yellow;
+    width: 150px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+#flex {
+    display: flex;
+}
